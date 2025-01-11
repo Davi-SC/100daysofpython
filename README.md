@@ -12,6 +12,7 @@ Meu projeto de 100 dias de programação em Python.
   - Sintaxe básica: variáveis, tipos de dados, operadores matemáticos e lógicos.
   - Estruturas de controle(condicionais e repetição): if/else, loops (for, while).
 - **Dia 2**:
+  - Funções: definição, argumentos, retorno e escopo.
 
 ---
 
@@ -20,5 +21,6 @@ Meu projeto de 100 dias de programação em Python.
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Fluente](https://pythonfluente.com)
 - [Beecrowd](https://judge.beecrowd.com/pt)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ---
