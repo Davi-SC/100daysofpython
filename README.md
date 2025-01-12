@@ -13,6 +13,8 @@ Meu projeto de 100 dias de programação em Python.
   - Estruturas de controle(condicionais e repetição): if/else, loops (for, while).
 - **Dia 2**:
   - Funções: definição, argumentos, retorno e escopo.
+- **Dia 3**:
+  - Bibliotecas padrão: módulos, importação e uso de bibliotecas.
 
 ---
 
