@@ -15,6 +15,9 @@ Meu projeto de 100 dias de programação em Python.
   - Funções: definição, argumentos, retorno e escopo.
 - **Dia 3**:
   - Bibliotecas padrão: módulos, importação e uso de bibliotecas.
+- **Dia 4**:
+  - Listas e manipulação de Strings
+  - Manipulação de arquivos(txt e csv): leitura e escrita.
 
 ---
 
