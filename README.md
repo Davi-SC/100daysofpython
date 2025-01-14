@@ -19,6 +19,11 @@ Meu projeto de 100 dias de programação em Python.
   - Listas e manipulação de Strings
   - Manipulação de arquivos(txt e csv): leitura e escrita.
 
+### 02- Estruturas de Dados
+
+- **Dia 5**:
+  - Tuplas, Dicionários e listas
+
 ---
 
 ## 📚 Recursos Utilizados
