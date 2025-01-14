@@ -22,7 +22,12 @@ Meu projeto de 100 dias de programação em Python.
 ### 02- Estruturas de Dados
 
 - **Dia 5**:
+
   - Tuplas, Dicionários e listas
+  - Pilhas e Filas
+
+- **Dia 6**:
+  - Algoritmos de ordenação: Bubble Sort, Insertion Sort, Selection Sort.
 
 ---
 
