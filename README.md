@@ -27,7 +27,12 @@ Meu projeto de 100 dias de programação em Python.
   - Pilhas e Filas
 
 - **Dia 6**:
-  - Algoritmos de ordenação: Bubble Sort, Insertion Sort, Selection Sort.
+
+  - Recursão
+  - Algoritmos de ordenação: Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Merge Sort.
+  - Algoritmos de busca: Busca Binária, Busca Linear.
+
+- **Dia 7**:
 
 ---
 
