@@ -21,18 +21,16 @@ Meu projeto de 100 dias de programação em Python.
 
 ### 02- Estruturas de Dados
 
-- **Dia 5**:
-
+- **Dia 5**
   - Tuplas, Dicionários e listas
   - Pilhas e Filas
-
 - **Dia 6**:
-
   - Recursão
   - Algoritmos de ordenação: Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Merge Sort.
   - Algoritmos de busca: Busca Binária, Busca Linear.
-
 - **Dia 7**:
+  - Inerface gráfica: Tkinter
+  - Collections: Counter, defaultdict, OrderedDict, namedtuple.
 
 ---
 
