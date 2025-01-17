@@ -31,6 +31,10 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 7**:
   - Inerface gráfica: Tkinter
   - Collections: Counter, defaultdict, OrderedDict, namedtuple.
+- **Dia 8**:
+  - Tabela Hash(ou dicionario) de forma mais aprofundada.
+- **Dia 9**:
+  - Grafos: conceito, pesquisa em largura.
 
 ---
 
