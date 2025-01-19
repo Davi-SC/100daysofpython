@@ -34,7 +34,12 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 8**:
   - Tabela Hash(ou dicionario) de forma mais aprofundada.
 - **Dia 9**:
-  - Grafos: conceito, pesquisa em largura.
+  - Grafos
+  - Pesquisa em largura.
+- **Dia 10**:
+  - Grafos ponderados
+  - Algorimo de Dijkstra
+  - Ciclos em Grafos
 
 ---
 
