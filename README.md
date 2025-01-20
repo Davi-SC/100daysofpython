@@ -41,6 +41,13 @@ Meu projeto de 100 dias de programação em Python.
   - Algorimo de Dijkstra
   - Ciclos em Grafos
 
+### 03- Programação Orientada a Objetos
+
+- **Dia 11**:
+  - Conceitos basicos: classes, objetos, atributos e metodos
+- **Dia 12**:
+  - Encapsulamento
+
 ---
 
 ## 📚 Recursos Utilizados
