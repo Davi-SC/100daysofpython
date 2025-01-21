@@ -47,6 +47,7 @@ Meu projeto de 100 dias de programação em Python.
   - Conceitos basicos: classes, objetos, atributos e metodos
 - **Dia 12**:
   - Encapsulamento
+  - Associação
 
 ---
 
