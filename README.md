@@ -48,6 +48,12 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 12**:
   - Encapsulamento
   - Associação
+  - Agregação
+- **Dia 13**:
+  - Composição
+  - Herança
+- **Dai 14**:
+  -
 
 ---
 
