@@ -52,8 +52,11 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 13**:
   - Composição
   - Herança
-- **Dai 14**:
-  -
+- **Dia 14**:
+  - Dataclass
+  - Metaclass
+- **Dia 15**:
+  - Modulo abc e interfaces
 
 ---
 
