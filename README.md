@@ -56,7 +56,8 @@ Meu projeto de 100 dias de programação em Python.
   - Dataclass
   - Metaclass
 - **Dia 15**:
-  - Modulo abc e interfaces
+  - Desafio Pratico: Sistema de contas bancarias
+- **Dia 16**:
 
 ---
 
