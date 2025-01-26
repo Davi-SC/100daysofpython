@@ -57,7 +57,11 @@ Meu projeto de 100 dias de programação em Python.
   - Metaclass
 - **Dia 15**:
   - Desafio Pratico: Sistema de contas bancarias
+
+### 03- Introdução à Ciência de Dados
+
 - **Dia 16**:
+  - Numpy:
 
 ---
 
