@@ -62,6 +62,8 @@ Meu projeto de 100 dias de programação em Python.
 
 - **Dia 16**:
   - Numpy:
+- **Dia 17**:
+  - Pandas
 
 ---
 
