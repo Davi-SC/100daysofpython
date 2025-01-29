@@ -64,6 +64,12 @@ Meu projeto de 100 dias de programação em Python.
   - Numpy:
 - **Dia 17**:
   - Pandas
+- **Dia 18**:
+  - Matplotlib
+- **Dia 19**:
+  - Seanborn
+- **Dia 20**:
+  - Estatistica básica
 
 ---
 
