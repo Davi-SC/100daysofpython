@@ -67,8 +67,6 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 18**:
   - Matplotlib
 - **Dia 19**:
-  - Seanborn
-- **Dia 20**:
   - Estatistica básica
 
 ---
