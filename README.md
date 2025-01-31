@@ -68,6 +68,8 @@ Meu projeto de 100 dias de programação em Python.
   - Matplotlib
 - **Dia 19**:
   - Estatistica básica
+- **Dia 20**:
+  - Estudando um dataset real
 
 ---
 
