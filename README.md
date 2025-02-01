@@ -70,6 +70,8 @@ Meu projeto de 100 dias de programação em Python.
   - Estatistica básica
 - **Dia 20**:
   - Estudando um dataset real
+- **Dia 21**:
+  - Exercicio pratico
 
 ---
 
