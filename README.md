@@ -73,13 +73,22 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 21**:
   - Exercicio pratico
 
+### 04- Introdução à Machine Learning
+
+- **Dia 22**:
+  - Introdução a Machine Learning(conceitos básicos)
+- **Dia 23**:
+  - Principais desafios do AM
+  - Exercicios(Capitulo 1 da Referência 5 )
+
 ---
 
 ## 📚 Recursos Utilizados
 
-- [Python Documentation](https://docs.python.org/3/)
-- [Python Fluente](https://pythonfluente.com)
-- [Beecrowd](https://judge.beecrowd.com/pt)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+1. [Python Documentation](https://docs.python.org/3/)
+2. [Python Fluente](https://pythonfluente.com)
+3. [Beecrowd](https://judge.beecrowd.com/pt)
+4. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+5. [Mãos a obra: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 ---
