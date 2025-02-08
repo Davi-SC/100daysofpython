@@ -80,6 +80,8 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 23**:
   - Principais desafios do AM
   - Exercicios(Capitulo 1 da Referência 5 )
+- **Dia 24**:
+  - Projeto de ML(Capitulo 2 da Referência 5 )
 
 ---
 
