@@ -82,8 +82,15 @@ Meu projeto de 100 dias de programação em Python.
   - Exercicios(Capitulo 1 da Referência 5 )
 - **Dia 24**:
   - Projeto de ML(Capitulo 2 da Referência 5 )
-- **Dia25**:
+- **Dia 25**:
   - Continuando projeto: Criando um conjunto de testes
+
+#### Um passo para trás, para dar dois para a frente, passei algumas semanas sem estudar python e decidi voltar dando um passo para trás nos estudos de ML
+
+### 05- Aprimorando Fundamentos de Machine Learning com Scikit-Learn
+
+- **Dia 26**:
+  - Introdução ao Scikit-Learn
 
 ---
 
