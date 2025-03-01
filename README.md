@@ -91,6 +91,8 @@ Meu projeto de 100 dias de programação em Python.
 
 - **Dia 26**:
   - Introdução ao Scikit-Learn
+- **Dia 27**:
+  - Aprendendo mais do scikit-learn
 
 ---
 
