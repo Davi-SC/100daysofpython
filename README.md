@@ -94,6 +94,11 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 27**:
   - Aprendendo mais do scikit-learn
 
+#### 5.1 - Regressão
+
+- **Dia 28**:
+  - Regressão Linear
+
 ---
 
 ## 📚 Recursos Utilizados
