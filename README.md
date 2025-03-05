@@ -98,6 +98,8 @@ Meu projeto de 100 dias de programação em Python.
 
 - **Dia 28**:
   - Regressão Linear
+- **Dia 28**:
+  - Regressão Polinomial
 
 ---
 
