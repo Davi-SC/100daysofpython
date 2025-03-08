@@ -101,6 +101,11 @@ Meu projeto de 100 dias de programação em Python.
 - **Dia 28**:
   - Regressão Polinomial
 
+#### 5.2 - Classificação
+
+- **Dia 29**:
+  - Regressão Logística
+
 ---
 
 ## 📚 Recursos Utilizados
