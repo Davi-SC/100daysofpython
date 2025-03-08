@@ -105,6 +105,8 @@ Meu projeto de 100 dias de programação em Python.
 
 - **Dia 29**:
   - Regressão Logística
+  - KNN(k-Nearest Neighbors)
+- **Dia 30**:
 
 ---
 
