@@ -107,6 +107,7 @@ Meu projeto de 100 dias de programação em Python.
   - Regressão Logística
   - KNN(k-Nearest Neighbors)
 - **Dia 30**:
+  - Exercicio de regressão linear com Scikit-Learn
 
 ---
 
